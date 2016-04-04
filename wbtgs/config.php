@@ -16,5 +16,5 @@
 define("DB_SERVER" , "localhost");
 define("DB_USERNAME" , "root");
 define("DB_PASSWORD" , "");
-define("DB_NAME" , "transcript");
+define("DB_NAME" , "wbtgs");
 ?>
